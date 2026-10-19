@@ -14,3 +14,17 @@ mtime_ms = 1792368729219
 storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:b8da676a-a469-4576-8a75-ceaf1a5431b6/975667a9-cedb-48c7-9ba2-9ffbbee1e1d7/323b4721-bf3f-4216-ad92-855328515ca5"
 storage_version_token = "1792368766781290"
 content_type = "image/jpeg"
+
+[[outputs]]
+id = "d-S49z92Qr5KRG6152N_x"
+uri = "file://generated-artifacts/sls-logistics-promo-reel.mp4"
+type = "video"
+title = "SLS Logistics promo video"
+description = "16-second vertical 1080×1920 promo combining the presenter and cargo/delivery clips, with your supplied logo and WhatsApp number."
+logical_id = "2599eeed-e6c6-4b2b-9d40-8185a755df30"
+content_hash = "sha256:1089f848fc899ae82f1134a7086c5da626bc79c7bd066a9eea26958503529fe0"
+size = 5651910
+mtime_ms = 1792369929463
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:b8da676a-a469-4576-8a75-ceaf1a5431b6/2599eeed-e6c6-4b2b-9d40-8185a755df30/fe8f31ae-6338-4369-ae6e-eafce849af1d"
+storage_version_token = "1792369991210665"
+content_type = "video/mp4"
